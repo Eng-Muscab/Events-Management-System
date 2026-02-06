@@ -1,5 +1,6 @@
 import mongoose from 'mongoose';
 
+// Creating menu Scheme table 
 const menuSchema = mongoose.Schema(
     {
         name: {

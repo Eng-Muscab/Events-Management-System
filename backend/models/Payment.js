@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-
+// payment scheme creation
 const paymentSchema = mongoose.Schema(
     {
         registration: {
